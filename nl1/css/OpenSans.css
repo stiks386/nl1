@@ -1,0 +1,33 @@
+/***/
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../fonts/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(../fonts/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+}
+/***/
+
+body.ThemeFont_OpenSans,
+
+body.ThemeFont_Headings_OpenSans h1,
+body.ThemeFont_Headings_OpenSans h2,
+body.ThemeFont_Headings_OpenSans h3,
+body.ThemeFont_Headings_OpenSans h4,
+body.ThemeFont_Headings_OpenSans h5,
+body.ThemeFont_Headings_OpenSans h6
+
+{
+    font-family: 'Open Sans', verdana, arial, sans-serif;
+}
